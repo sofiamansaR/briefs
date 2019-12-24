@@ -1,0 +1,15 @@
+@media screen and (max-width: 590px){
+    .logo{
+        margin: auto;
+        display: block;
+    }
+    .menu li a{font-size: 13px;}
+    .but4{
+        display: block;
+        width: 100%;
+        margin: auto;
+    }
+    
+}
+
+  

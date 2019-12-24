@@ -1,0 +1,160 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    min-width: 465px;
+}
+.header{
+    background-color: black;
+    overflow: hidden;
+    width: 100%;
+    position: fixed;
+    z-index: 999;
+}
+.menu{
+    display: inline-block;
+    float: right;
+}
+.menu li{
+    display: inline-block;
+}
+.menu li a{
+    display: inline-block;
+    text-decoration: none;
+    padding: 10px 8px;
+    color: white;
+    font-size: 20px;
+}
+.contenaire{
+    margin: auto;
+    width: 90%;
+}
+.menu .But{
+        background-color: #038DFE;
+        border-radius: 34px;
+        padding: 13px 30px;
+        height: 20px;
+        font-size: 20px;
+}
+.contenaire1{
+    background-image: url("slide1.png");
+    background-repeat: no-repeat;
+    z-index: 1;
+    width: 100%;
+    height: 600px;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+.titre{
+    font-size: 20px;
+    color: white;
+    position: absolute;
+    top: 200px;
+    left: 100px;
+}
+h1{
+    margin-bottom: 20px;
+}
+p{
+    margin-bottom: 20px;
+}
+.but2{
+    background: transparent;
+    border-radius: 15px;
+    border: 1px solid white;
+    color: white;
+    font-size: 20px;
+    margin: 20px 0px;
+    padding: 10px 30px
+}
+.but3{
+    background: #038DFE;
+    color: white;
+    border-radius: 15px;
+    border: none;
+    font-size: 20px;
+    margin: 20px 0px;
+    padding: 10px 30px;
+}
+.B2{
+    background: #038DFE;
+    color: white;
+    border-radius: 15px;
+    border: none;
+    font-family: Montserrat;
+    font-size: 20px;
+    margin: 20px;
+    padding: 10px 30px;
+}
+table{
+    padding: 20px;
+    border-collapse: collapse;
+    width:90%;
+    margin: auto;
+    margin-bottom: 28px;
+}
+th{
+    padding: 1%;
+}
+tr, th{
+    border: 1px solid;
+}
+.appryou{
+    background:  #038DFE ;
+    font-size: 12px;
+    
+}
+.table img{
+    width: 100%;
+    height: auto;
+}
+.tb1{
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 12px;
+}
+footer{
+    height: 100px;
+    background-color: black;
+    overflow: hidden;
+   
+}
+.contact{
+    padding: 20px 0px 0px 40px;
+}
+.contact p{
+    color: rgba(255, 255, 255, 0.575);
+    margin-bottom: 6px;
+}
+.contact a{
+    color: rgb(51, 122, 183);;
+}
+.same{
+    width: calc(90%/3);
+    display: inline-block;
+}
+.ucode{
+    text-align: center;
+    color: rgba(255, 255, 255, 0.575);
+}
+.social{
+    height: 100%;
+    overflow: hidden;
+    float: right;
+    padding-top: 10px;
+}
+.social p{
+    float: right;
+    color: rgba(255, 255, 255, 0.575);
+    margin: auto;
+    width: 90%;
+}
+.social p:last-of-type{
+    text-align: center;
+    margin: 15px 0px 0px 90px 
+}
+.social p i{
+    margin-right: 10px;
+}

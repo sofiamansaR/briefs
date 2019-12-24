@@ -1,0 +1,251 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    min-width: 465px;
+}
+.header{
+    background-color: black;
+    overflow: hidden;
+    width: 100%;
+    position: fixed;
+    z-index: 999;
+}
+.menu{
+    display: inline-block;
+    float: right;
+}
+.menu li{
+    display: inline-block;
+}
+.menu li a{
+    display: inline-block;
+    text-decoration: none;
+    padding: 10px 8px;
+    color: white;
+    font-size: 20px;
+}
+.contenaire{
+    margin: auto;
+    width: 90%;
+}
+.menu .But{
+        background-color: #038DFE;
+        border-radius: 34px;
+        padding: 13px 30px;
+        height: 20px;
+        font-size: 20px;
+}
+.contenaire1{
+    background-image: url("slide1.png");
+    background-repeat: no-repeat;
+    z-index: 1;
+    width: 100%;
+    height: 600px;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+.titre{
+    font-size: 20px;
+    color: white;
+    position: absolute;
+    top: 200px;
+    left: 100px;
+}
+h1{
+    margin-bottom: 20px;
+}
+p{
+    margin-bottom: 20px;
+}
+.but2{
+    background: transparent;
+    border-radius: 15px;
+    border: 1px solid white;
+    color: white;
+    font-size: 20px;
+    margin: 20px 0px;
+    padding: 10px 30px
+}
+.but3{
+    background: #038DFE;
+    color: white;
+    border-radius: 15px;
+    border: none;
+    font-size: 20px;
+    margin: 20px 0px;
+    padding: 10px 30px;
+}
+h1{
+    font-family: Montserrat;
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 20px ;
+}
+.p1{
+    font-family: Montserrat;
+    font-size: 15px;
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 20px;
+
+}
+.youSafi{
+    background-image: url(image.jpg);
+    height: 397px;
+    width: 531px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: auto;
+}
+.contenaire2{
+    margin-top: 50px;
+    overflow: hidden;
+    height: 500px;
+}
+.para1{
+    background-image: url(imag.jpg);
+    width: 50%;
+    display: inline-block;
+    height: 500px;
+}
+.para2{
+    background-color:#038DFE;
+    display: inline-block;
+    float: right;
+    width: 50%;
+    padding: 1px 0px;
+    height: 100%;
+}
+
+.para2 p{
+    color: white;
+    font-weight: 300;
+    padding-top: 42px;
+    margin-left: 29px;
+    font-size: 20px;
+}
+.mapsyou{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.para4{
+    background-image: url(Capturemaps.png);
+    height: 397px;
+    width: 531px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: auto;
+}
+.para3{
+    font-size: 30px;
+}
+.contenaire8{
+    width: 100%;
+    margin-bottom: 128px;
+    overflow: hidden;
+}
+.button2{
+    margin: auto;
+    width: 80%;
+}
+.button2 p{
+    display: inline-block;
+    font-size: 35px;
+    float: left;
+
+}
+.but4{
+    background-color: #038DFE;
+    border-radius: 34px;
+    padding: 0px 167px;
+    height: 44px;
+    font-size: 17px;
+    color: white;
+    border: none;
+    float: right;
+}
+footer{
+    height: 100px;
+    background-color: black;
+    overflow: hidden;
+}
+.contact{
+    padding: 20px 0px 0px 40px;
+}
+.contact p{
+    color: rgba(255, 255, 255, 0.575);
+    margin-bottom: 6px;
+}
+.contact a{
+    color: rgb(51, 122, 183);;
+}
+.same{
+    width: calc(90%/3);
+    display: inline-block;
+}
+.ucode{
+    text-align: center;
+    color: rgba(255, 255, 255, 0.575);
+}
+.social{
+    height: 100%;
+    overflow: hidden;
+    float: right;
+    padding-top: 10px;
+}
+.social p{
+    float: right;
+    color: rgba(255, 255, 255, 0.575);
+    margin: auto;
+    width: 90%;
+}
+.social p:last-of-type{
+    text-align: center;
+    margin: 15px 0px 0px 90px 
+}
+.social p i{
+    margin-right: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
