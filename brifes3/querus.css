@@ -1,0 +1,19 @@
+@media screen and (max-width: 590px){
+    .logo{
+        margin: auto;
+        display: block;
+    }
+    .menu li a{font-size: 13px;}
+    .but4{
+        display: block;
+        width: 100%;
+        margin: auto;
+    }
+    .youSafi {width:100%;}
+    .contenaire2 {height: auto;}
+    .para4 {width: 100%;}
+    .para1 {width: 100%;}
+    .para2 {width: 100%;}
+
+    
+}
