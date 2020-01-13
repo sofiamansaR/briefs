@@ -20,7 +20,7 @@
 .menu li a{
     display: inline-block;
     text-decoration: none;
-    padding: 20px 20px;
+    padding: 10px 8px;
     color: white;
     font-size: 20px;
 }
@@ -32,7 +32,7 @@
         background-color: #038DFE;
         border-radius: 34px;
         padding: 13px 30px;
-        height: 20px;
+      
         font-size: 20px;
 }
 .contenaire1{
@@ -136,7 +136,7 @@ p{
 .contenaire4{
     margin-top: 50px;
     overflow: hidden;
-    min-height: 500px;
+    height: 500px;
 }
 .para1{
     background-image: url("img1.png");

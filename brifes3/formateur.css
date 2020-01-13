@@ -3,6 +3,7 @@
     margin: 0;
 }
 
+
 .header{
     background-color: black;
     overflow: hidden;
@@ -32,14 +33,14 @@
         background-color: #038DFE;
         border-radius: 34px;
         padding: 13px 30px;
-        height: 20px;
+       
         font-size: 20px;
 }
 .contenaire1{
     background-image: url("slide1.png");
     background-repeat: no-repeat;
     z-index: 1;
-    width: 103%;
+    width: 100%;
     height: 600px;
     background-position: center;
     background-size: cover;
@@ -92,6 +93,7 @@ table{
     width:90%;
     margin: auto;
     margin-bottom: 28px;
+
 }
 th{
     padding: 1%;
@@ -104,6 +106,10 @@ tr, th{
     font-size: 12px;
     
 }
+.table {
+		min-width:290px;
+	overflow:auto;
+}
 .table img{
     width: 100%;
     height: auto;
@@ -114,7 +120,7 @@ tr, th{
     font-size: 12px;
 }
 footer{
-    height: 103px;
+    height: 100px;
     background-color: black;
     overflow: hidden;
    
