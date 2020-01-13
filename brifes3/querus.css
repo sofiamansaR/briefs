@@ -9,11 +9,29 @@
         width: 100%;
         margin: auto;
     }
+    .menu .But{
+        padding: 6px 10px;
+        height: 19px;
+        font-size: 16px;
+    }
+    .menu{
+        float: none;
+    }
     .youSafi {width:100%;}
     .contenaire2 {height: auto;}
     .para4 {width: 100%;}
     .para1 {width: 100%;}
     .para2 {width: 100%;}
-
-    
+    .same contact{
+        display: block;
+        margin: auto;
+    }
+   .same ucode{
+    display: block;
+    margin: auto;
+    }
+    .same social{
+        display: block;
+        margin: auto;
+    }   
 }

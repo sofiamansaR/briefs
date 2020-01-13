@@ -2,9 +2,7 @@
     padding: 0;
     margin: 0;
 }
-body{
-    min-width: 465px;
-}
+
 .header{
     background-color: black;
     overflow: hidden;
@@ -22,7 +20,7 @@ body{
 .menu li a{
     display: inline-block;
     text-decoration: none;
-    padding: 10px 8px;
+    padding: 20px 20px;
     color: white;
     font-size: 20px;
 }
@@ -138,7 +136,7 @@ p{
 .contenaire4{
     margin-top: 50px;
     overflow: hidden;
-    height: 500px;
+    min-height: 500px;
 }
 .para1{
     background-image: url("img1.png");

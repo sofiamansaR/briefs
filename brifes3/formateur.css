@@ -2,9 +2,7 @@
     padding: 0;
     margin: 0;
 }
-body{
-    min-width: 465px;
-}
+
 .header{
     background-color: black;
     overflow: hidden;
@@ -41,7 +39,7 @@ body{
     background-image: url("slide1.png");
     background-repeat: no-repeat;
     z-index: 1;
-    width: 100%;
+    width: 103%;
     height: 600px;
     background-position: center;
     background-size: cover;
@@ -116,7 +114,7 @@ tr, th{
     font-size: 12px;
 }
 footer{
-    height: 100px;
+    height: 103px;
     background-color: black;
     overflow: hidden;
    

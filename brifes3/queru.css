@@ -9,7 +9,29 @@
         width: 100%;
         margin: auto;
     }
+    .menu .But{
+        padding: 6px 10px;
+        height: 19px;
+        font-size: 16px;
+    }
+    .menu{
+        float: none;
+    }
+    .contenaire4{height: auto;}
+    .para1{
+        width: 100%;
+        display: block;
+        float: none;
+        height: 500px;
+    }
+    .para2{
+        float: none;
+        display: block;
+        width: 100%;
+        height: 500px;
+    }
     
+
 }
 
   

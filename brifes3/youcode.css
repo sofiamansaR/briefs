@@ -2,9 +2,7 @@
     padding: 0;
     margin: 0;
 }
-body{
-    min-width: 465px;
-}
+
 .header{
     background-color: black;
     overflow: hidden;
@@ -54,7 +52,7 @@ body{
     top: 200px;
     left: 100px;
 }
-h1{
+.h2{
     margin-bottom: 20px;
 }
 p{
