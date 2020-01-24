@@ -1,0 +1,155 @@
+@media screen and (max-width: 1519px){
+    .cont {
+        height: 70px;
+        overflow: hidden;
+    }
+    .logo {
+       margin: auto;
+        display: block;
+    }
+    #labelckeck{
+        display: block;
+        cursor: pointer;
+        color: white;
+        margin: 0 40px 0 0;
+        font-size: 26px;
+        line-height: 70px;
+    }
+    .menu li{
+        display: block;
+        text-align: center;
+    }
+    .menu {
+        float: none;
+    }
+    #checkbox:checked ~ .cont{
+        position: fixed;
+        height: 100%;
+        width: 100%;
+        overflow: auto;
+        background-color: black;
+    }
+    #checkbox:checked ~ .cont .menu li a{
+        padding: 16px 20px;
+    }
+}
+@media screen and (max-width: 1066px){
+    .logo{
+        margin: auto;
+        display: block;
+    }
+    .contact {
+        float: left;
+        margin: 1% 9% 7%;
+        width: 45%;
+    }
+    .para1 h1{
+        font-size: 27px;
+    }
+    .p1 {
+        margin-left: 0;
+        float: left;
+        padding: 0px 11px;
+    }
+    .p2 {
+        margin-left: 0;
+        float: right;
+        padding: 0px 17px;
+    }
+    .p3 {
+        margin-left: 0;
+        float: right;
+        padding: 0px 16px;
+    }
+}
+@media screen and (max-width: 590px){
+    .logo{
+        margin: auto;
+        display: block;
+    }
+    .contenaire3{
+        font-size: 32px;
+    }
+    .image5{
+        width: 100%;
+        height: 247px;
+    } 
+    .para1{
+        width: 100%;
+    }
+    .para1 h1{
+        font-size: 18px;
+    }
+    .para1 p{
+        font-size: 11px;
+
+    }
+    .sosciale{
+        margin-top: 5%;
+    }
+    .sosciale .icone {
+        text-align: center;
+    }
+    .foo2{
+        margin-top: 64px;
+    }
+    .foo4{
+        margin-left: 60px;
+    }
+    .contact{
+        margin-bottom: 10px;
+        margin-top: 2px;
+    }
+    .contact h2{
+        
+        font-size: 20px;
+    }
+    .contact p{
+        font-size: 12px;
+       
+    }
+ 
+
+    .contact h1{
+        margin-right: 70px;
+        font-size: 13px;
+    }
+    .contact h3{
+        font-size: 17px;
+    }
+    .p1, .p2, .p3{
+        margin-top: 2px;
+        text-align: center;
+        font-size: 9px;
+    }
+    .p1{
+        display: block;
+        margin-left: 108px;
+        
+    }
+    .p2{
+        
+        margin-right: 71px;
+        margin-top: 11px;
+    }
+    .p3{
+        margin-top: 11px;  
+        margin-right: 30px;      
+
+    }
+}
+
+   
+
+    
+
+
+
+
+
+
+
+
+
+
+
